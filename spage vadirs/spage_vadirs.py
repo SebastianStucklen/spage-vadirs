@@ -21,7 +21,7 @@ while not endgame: # game loop -------------------------------------
     #input section
     for even in pygame.event.get():
         #https://docs.google.com/presentation/d/1Q1NO44sPD1N9lYssl-47hkM-ZbUspQ6bTZnWOZJtYDU/edit#slide=id.g1d61a57c6a2_0_40
-        print("nothing here yet")
+        print("nothing here yet s")
     #physics section
 
     if leftward == True:
